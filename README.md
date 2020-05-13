@@ -1,0 +1,2 @@
+# Google-Form-Test-Cheating-RPA-PROJECT
+UIPath ( RPA ) Project To Cheat in Google Form Quiz. This project copy All the questions from the Google form test and searches on google and opens the appropriate Website in new tab (For eg: if you Have 20 Questions in google form then it will open 20 tabs with appropriate website having solution. ) .You Just Have To do is Open This Project in UiPath Studio and Use Data Scraping Tool In UiPAth and click on 2 alternate questions in google forms then it will scrap all data automatically and create  The last step is to to
